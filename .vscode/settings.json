@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\Thaisothyrak Teng\\.gradle\\caches\\**\\*.jar"
+    ],
+    "FSharp.suggestGitignore": false
+}

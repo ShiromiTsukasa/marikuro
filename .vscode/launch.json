@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "marikuro.App",
+            "projectName": "app"
+        },
+        {
+            "type": "php",
+            "request": "launch",
+            "name": "Run using local PHP intepreter",
+            "program": "${file}",
+            "runtimeExecutable": "C:\\xampp\\php\\php.exe"
+        }
+    ]
+}
